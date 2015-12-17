@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: sam6.de project pages
+email: master@sam6.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my awesome blog page. I use it as start point for all of my
+   open source projects and as my personal news site.
+   Feel free to fork my projects or send me merge requests, if you want to fix
+   bugs or improve my code.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.sam6.de" # the base hostname & protocol for your site
+twitter_username: sam6_de
+github_username:  sam6-de
 
 # Build settings
 markdown: kramdown
