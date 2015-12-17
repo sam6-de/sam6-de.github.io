@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Basically, I am a human (more or less) and I live in Germany. My profession is software developer.
+I love to do experiments with new frameworks, concepts, etc. in my freetime. If I make mistakes or write shitty code, it is only to act more like a human.
+If I am not writing code, I go hiking with my wife or drink a Kölsch with friends in cologne. Alternatively I improve my home (or my garden).
