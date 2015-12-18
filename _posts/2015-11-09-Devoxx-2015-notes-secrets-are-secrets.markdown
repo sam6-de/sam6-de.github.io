@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devoxx 2015 notes: Secrets are Secrets"
-date:   2015-12-17 22:57:12
+date:   2015-11-09 18:05:00
 categories: devoxx notes video talk security
 ---
 
