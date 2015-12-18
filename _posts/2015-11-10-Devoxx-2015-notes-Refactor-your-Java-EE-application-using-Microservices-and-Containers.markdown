@@ -7,7 +7,11 @@ categories: devoxx notes video talk jee microservice container
 
 *by Arun Grupta (@Couchbase; [blog.arungrupta.me](https://blog.arungrupta.me))*
 
+###Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/muqOStp3A_o" frameborder="0" allowfullscreen></iframe>
+
+###Slides
+[https://github.com/arun-gupta/microservices/raw/master/slides/refactor-microservices.pdf](https://github.com/arun-gupta/microservices/raw/master/slides/refactor-microservices.pdf)
 
 ### Overview
 Microservices allow to decompose a monolithic application into cohesive and multiple decoupled services. Each service is running in its own process and communicate using lightweight mechanisms, such as HTTP API. These services are built around business capabilities or functional decomposition. Microservice also enables true polyglot architecture – both in terms of language and data. It truly allows you to employ the right tool for the right job. Each service is independently deployable and lends very well to fully automated deployment machinery.
