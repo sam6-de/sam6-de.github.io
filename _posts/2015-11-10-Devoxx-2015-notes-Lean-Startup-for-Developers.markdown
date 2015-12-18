@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devoxx 2015 notes: Lean Startup for Developers"
-date:   2015-11-10 13:30:00
+date:   2015-11-09 18:05:00
 categories: devoxx notes video talk lean startup
 ---
 
