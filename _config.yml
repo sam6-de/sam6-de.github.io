@@ -5,7 +5,7 @@ locale: de_DE
 description: IT news and trends
 logo: avatar.png
 search: true
-url: http://localhost:4000
+url: https://sam6-de.github.io/
 
 # Jekyll configuration
 
