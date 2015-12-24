@@ -1,15 +1,55 @@
-# Site settings
-title: sam6.de
-email: master@sam6.de
-description: > # this means to ignore newlines until "baseurl:"
-  This is my awesome blog page. I use it as start point for all of my
-   open source projects and as my personal news site.
-   Feel free to fork my projects or send me merge requests, if you want to fix
-   bugs or improve my code.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.sam6.de" # the base hostname & protocol for your site
-twitter_username: sam6_de
-github_username:  sam6-de
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title: sam6.de
+locale: de_DE
+description: IT news and trends
+logo: avatar.png
+search: true
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+# Site owner
+owner:
+  name: Sascha Schlegel
+  avatar: avatar.png
+  email: master@sam6.de
+  disqus-shortname:
+  twitter: sam6_de #username
+  facebook: #username
+  github: sam6-de #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: saschaschlegel #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

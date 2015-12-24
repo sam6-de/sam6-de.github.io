@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Tags
+  url: /tags/
+
+- title: Blog
+  url: /blog/
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+#- title: Made Mistakes
+#  url: http://mademistakes.com
+
+- title: Search
+  url: /search/
