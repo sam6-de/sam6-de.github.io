@@ -3,9 +3,6 @@
 - title: Home
   url: /
 
-- title: About
-  url: /about/
-
 - title: Tags
   url: /tags/
 
@@ -20,3 +17,9 @@
 
 - title: Search
   url: /search/
+
+- title: About
+  url: /about/
+
+- title: Impressum
+  url: /impressum/
