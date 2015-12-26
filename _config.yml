@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: sam6.de
-locale: de_DE
+locale: en_US
 description: IT news and trends
 logo: avatar.png
 search: true
