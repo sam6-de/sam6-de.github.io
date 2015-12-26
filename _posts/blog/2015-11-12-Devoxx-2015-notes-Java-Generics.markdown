@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Java Generics: Past, Present and Future"
 date:   2015-11-12 16:40:00
 categories: blog
+share: true
 tags:
 - generics
 ---

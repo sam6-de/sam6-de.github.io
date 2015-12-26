@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Dockerize user stories with Mayfly"
 date:   2015-11-11 15:10:00
 categories: blog
+share: true
 tags:
 - docker
 - mayfly

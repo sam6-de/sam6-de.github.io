@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Doing Open Source (The Right Way)"
 date:   2015-11-11 12:00:00
 categories: blog
+share: true
 tags:
 - open source
 - foss

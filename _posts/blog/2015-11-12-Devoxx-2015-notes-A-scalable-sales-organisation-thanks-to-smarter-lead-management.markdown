@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: A scalable sales organisation thanks to smarter lead management"
 date:   2015-11-12 09:30:00
 categories: blog
+share: true
 tags:
 - sales
 - lead management

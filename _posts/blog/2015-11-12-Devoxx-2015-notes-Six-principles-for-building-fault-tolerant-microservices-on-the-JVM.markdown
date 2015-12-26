@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Six principles for building fault tolerant microservices on the JVM"
 date:   2015-11-12 17:50:00
 categories: blog
+share: true
 tags:
 - fault tolerance
 - microservices

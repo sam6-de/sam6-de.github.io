@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Building modern web UIs with Web Components"
 date:   2015-11-09 13:30:00
 categories: blog
+share: true
 tags:
 - ui
 - web components

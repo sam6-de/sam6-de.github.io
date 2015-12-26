@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Refactor your Java EE application using Microservices and Containers"
 date:   2015-11-10 09:30:00
 categories: blog
+share: true
 tags:
 - microservices
 - docker

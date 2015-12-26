@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Serenity BDD - from executable specifications to living documentation"
 date:   2015-11-10 16:45:00
 categories: blog
+share: true
 tags:
 - bdd
 - serenity

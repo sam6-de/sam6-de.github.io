@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Spring REST Docs - Documenting RESTful APIs using your tests"
 date:   2015-11-09 17:25:00
 categories: blog
+share: true
 tags:
 - spring
 - rest

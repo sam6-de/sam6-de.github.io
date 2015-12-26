@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Beyond the CAP theorem, consistency without consensus with CRDTs"
 date:   2015-11-11 16:40:00
 categories: blog
+share: true
 tags:
 - database
 - cap theorem

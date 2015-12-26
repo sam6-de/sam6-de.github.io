@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Building Applications with JRuby 9000"
 date:   2015-11-11 14:00:00
 categories: blog
+share: true
 tags:
 - jruby
 ---

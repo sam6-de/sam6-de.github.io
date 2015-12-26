@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Docker and Kubernetes Receipts for Java Developers"
 date:   2015-11-09 09:30:00
 categories: blog
+share: true
 tags:
 - docker
 - kubernetes

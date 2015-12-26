@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Ignite Sessions BOF1/2"
 date:   2015-11-12 13:00:00
 categories: blog
+share: true
 tags:
 - ignite
 - vjug
