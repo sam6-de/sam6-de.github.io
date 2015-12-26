@@ -18,8 +18,8 @@
 - title: Search
   url: /search/
 
-- title: About
+- title: About me
   url: /about/
 
-- title: Impressum
-  url: /impressum/
+#- title: Impressum
+#  url: /impressum/
