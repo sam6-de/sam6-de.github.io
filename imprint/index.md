@@ -55,7 +55,8 @@ This website uses Google Analytics, a web analysis service of Google Inc. (Googl
 (2) You can prevent storage of cookies by choosing a &quot;disable cookies&quot; option in your browser settings. But this can limit the functionality of our Internet offers as a result.  
 
 ##Disclosure  
-According to the Federal Data Protection Act, you have a right to free-of-charge information about your stored data, and possibly entitlement to correction, blocking or deletion of such data. Inquiries can be directed to the following e-mail addresses: master( a t )sam6.de
+According to the Federal Data Protection Act, you have a right to free-of-charge information about your stored data, and possibly entitlement to correction, blocking or deletion of such data. Inquiries can be directed to the following e-mail addresses:  
+master( a t )sam6.de
 
 ###Quelle:
 <http://www.twigg.de/>

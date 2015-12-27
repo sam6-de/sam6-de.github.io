@@ -53,8 +53,9 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 (2) Das Speichern von Cookies k&ouml;nnen Sie verhindern, indem Sie in Ihren Browser-Einstellungen &quot;Cookies blockieren&quot; w&auml;hlen. Dies kann aber eine Funktionseinschr&auml;nkung unserer Angebote zur Folge haben.  
 
 ##Auskunft  
-Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft &uuml;ber Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder L&ouml;schung dieser Daten. Fragen k&ouml;nnen Sie z.B. &uuml;ber die folgende E-Mail-Adresse stellen:  master( a t )sam6.de
+Nach dem Bundesdatenschutzgesetz haben Sie ein Recht auf unentgeltliche Auskunft &uuml;ber Ihre gespeicherten Daten sowie ggf. ein Recht auf Berichtigung, Sperrung oder L&ouml;schung dieser Daten. Fragen k&ouml;nnen Sie z.B. &uuml;ber die folgende E-Mail-Adresse stellen:  
+master( a t )sam6.de
 
 ##Quellen:
-<http://www.muster-vorlagen.net>  
-<http://www.ms-concept.de/>
+- <http://www.muster-vorlagen.net>  
+- <http://www.ms-concept.de/>
