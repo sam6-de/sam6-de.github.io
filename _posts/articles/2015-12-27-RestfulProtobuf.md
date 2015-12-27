@@ -14,7 +14,7 @@ tags:
 - java8
 - jetty
 - standalone
-- microservice
+- microservices
 comments: true
 share: true
 ---
