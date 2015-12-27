@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Sample Articles
+title: Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: false
 image:
   feature: article.jpg
-  credit: Aaron Burden
-  creditlink: https://stocksnap.io/photo/I98ZOPE9FM
+  credit: Alejandro Escamilla
+  creditlink: https://stocksnap.io/photo/FE65E51CF9
 ---
 
 <ul class="post-list">
