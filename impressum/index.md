@@ -9,8 +9,6 @@ image:
   creditlink: https://stocksnap.io/photo/1CSCANQ03B
 ---
 
-#Impressum
-
 ##Angaben gem&auml;&szlig; &sect; 5 TMG  
 Sascha Schlegel  
 Sophie-Scholl-Str. 22  

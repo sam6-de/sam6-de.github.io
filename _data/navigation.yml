@@ -9,17 +9,11 @@
 - title: Blog
   url: /blog/
 
-#- title: Theme Setup
-#  url: /theme-setup/
-
-#- title: Made Mistakes
-#  url: http://mademistakes.com
+- title: Projects
+  url: /projects/
 
 - title: Search
   url: /search/
 
 - title: About me
   url: /about/
-
-#- title: Impressum
-#  url: /impressum/
