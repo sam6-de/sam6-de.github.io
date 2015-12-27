@@ -24,6 +24,8 @@ Internetadresse: <https://www.sam6.de>
 
 ##Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2 RStV  
 Sascha Schlegel  
+Sophie-Scholl-Str. 22  
+41540 Dormagen  
 
 #Haftungsausschluss  
 
