@@ -4,7 +4,17 @@ title: RestfulProtobuf
 excerpt: "A small REST example using Jax-RS and Google Protocol Buffers, managed by Maven and runs on Java 8"
 modified: 2015-12-27
 categories: articles
-tags: [blog]
+tags:
+- maven
+- rest
+- jersey
+- jax-rs
+- google protocol buffers
+- protobuf
+- java8
+- jetty
+- standalone
+- microservice
 comments: true
 share: true
 ---
