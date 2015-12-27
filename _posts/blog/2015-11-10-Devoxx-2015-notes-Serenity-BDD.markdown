@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Serenity BDD - from executable specifications to liv
 date:   2015-11-10 16:45:00
 categories: blog
 share: true
+comments: true
 tags:
 - bdd
 - serenity

@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: From Startup Manifesto to Startup Nation"
 date:   2015-11-12 10:50:00
 categories: blog
 share: true
+comments: true
 tags:
 - startup
 - manifesto

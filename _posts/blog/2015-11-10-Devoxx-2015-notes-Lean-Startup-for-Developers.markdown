@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Lean Startup for Developers"
 date:   2015-11-10 13:30:00
 categories: blog
 share: true
+comments: true
 tags:
 - lean
 - startup

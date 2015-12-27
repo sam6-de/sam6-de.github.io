@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Beyond the CAP theorem, consistency without consensu
 date:   2015-11-11 16:40:00
 categories: blog
 share: true
+comments: true
 tags:
 - database
 - cap theorem

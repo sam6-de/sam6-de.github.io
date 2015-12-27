@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Secrets are Secrets"
 date:   2015-11-09 18:05:00
 categories: blog
+comments: true
 share: true
 tags:
 - security

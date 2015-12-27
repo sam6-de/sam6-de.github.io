@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Six principles for building fault tolerant microserv
 date:   2015-11-12 17:50:00
 categories: blog
 share: true
+comments: true
 tags:
 - fault tolerance
 - microservices

@@ -3,6 +3,7 @@ layout: post
 title:  "Devoxx 2015 notes: Hands-on with JMH, become a benchmarking expert in 30 minutes!"
 date:   2015-11-09 16:45:00
 categories: blog
+comments: true
 share: true
 tags:
 - jmh

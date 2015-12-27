@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: React, a new way to create web components"
 date:   2015-11-10 17:25:00
 categories: blog
 share: true
+comments: true
 tags:
 - react
 - web components

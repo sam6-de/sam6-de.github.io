@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: unRESTful Web Services with HTTP/2"
 date:   2015-11-13 10:45:00
 categories: blog
 share: true
+comments: true
 tags:
 - rest
 - unrestful

@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Spring REST Docs - Documenting RESTful APIs using yo
 date:   2015-11-09 17:25:00
 categories: blog
 share: true
+comments: true
 tags:
 - spring
 - rest

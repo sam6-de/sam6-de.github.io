@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Software architecture as code"
 date:   2015-11-13 09:30:00
 categories: blog
 share: true
+comments: true
 tags:
 - architecture
 - saac

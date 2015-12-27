@@ -4,6 +4,7 @@ title:  "Devoxx 2015 notes: Redefining PaaS: Managed container based microservic
 date:   2015-11-13 11:50:00
 categories: blog
 share: true
+comments: true
 tags:
 - paas
 - cloud
