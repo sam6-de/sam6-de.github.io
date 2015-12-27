@@ -54,6 +54,12 @@ This website uses Google Analytics, a web analysis service of Google Inc. (Googl
 (1) To optimize our web presence, we use cookies. These are small text files stored in your computer's main memory. These cookies are deleted after you close the browser. Other cookies remain on your computer (long-term cookies) and permit its recognition on your next visit. This allows us to improve your access to our site.  
 (2) You can prevent storage of cookies by choosing a &quot;disable cookies&quot; option in your browser settings. But this can limit the functionality of our Internet offers as a result.  
 
+##Social plug-ins from Facebook
+We use social plug-ins from facebook.com, operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. The plug-ins can be recognized by way of the Facebook logo or the supplement "Facebook Social Plug-in". For example, if you click on the "Like" button or leave a comment, the relevant information is transmitted directly from your browser to Facebook and stored there. Furthermore, Facebook makes your likes public for your Facebook friends. If you are logged into Facebook, it can assign the invocation of our page directly to your Facebook account. Even if you are not logged in or don't have a Facebook account, your browser sends information (e.g. which web pages you have called up, your IP address) which is then stored by Facebook. For details about handling of your personal data by Facebook and your related rights, please refer to the data privacy policy of Facebook: <http://www.facebook.com/policy.php>. If you do not want Facebook to map data collected about you via our Web sites to your Facebook account, you must log out of Facebook before you visit our web pages.
+
+##Social plug-ins from Twitter
+With Twitter and its Retweet functions, we use social plug-ins from Twitter.com, operated by Twitter Inc. 795 Folsom St., Suite 600, San Francisco, CA 94107. If you use Retweet, the websites visited by you are announced to third parties and associated with your Twitter account. Details about handling of your data by Twitter as well as your rights and setting options for protecting your personal information can be found in Twitter's data privacy policy: <http://twitter.com/privacy> 
+
 ##Disclosure  
 According to the Federal Data Protection Act, you have a right to free-of-charge information about your stored data, and possibly entitlement to correction, blocking or deletion of such data. Inquiries can be directed to the following e-mail addresses:  
 master( a t )sam6.de
