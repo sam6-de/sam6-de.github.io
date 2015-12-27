@@ -1,13 +1,16 @@
 ---
 layout: post
 title: RestfulProtobuf
-excerpt: "IT: Just about everything you'll need to know."
+excerpt: "A small REST example using Jax-RS and Google Protocol Buffers, managed by Maven and runs on Java 8"
 modified: 2015-12-27
 categories: articles
 tags: [blog]
 comments: true
 share: true
 ---
+
+# Fork me on GitHub
+Just visit <https://github.com/sam6-de/RestfulProtobuf> and follow the instructions.
 
 # RestfulProtobuf
 This is a Prototype for a standalone WAR. It offers a Restful service using Jersey/JAX-RS (JSR 311) and Google Protocol Buffers (protobuf).
