@@ -10,6 +10,7 @@
 <body id="page">
 
 {% include navigation.html %}
+{% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
 
 <div id="main" role="main">
   <article class="entry">
