@@ -19,7 +19,7 @@ Sophie-Scholl-Str. 22
 ##Contact
 Fon: 02133-5363648  
 Fax: 02133-217335  
-E-Mail: master( a t )sam6.de
+E-Mail: master( a t )sam6.de  
 Internetaddress: <https://www.sam6.de>  
 
 ##Person responsible for content in accordance with 55 Abs. 2 RStV
@@ -28,6 +28,7 @@ Sophie-Scholl-Str. 22
 41540 Dormagen  
 
 ##Disclaimer  
+
 ###Accountability for content  
 The contents of our pages have been created with the utmost care. However, we cannot guarantee the contents' accuracy, completeness or topicality. According to statutory provisions, we are furthermore responsible for our own content on these web pages. In this context, please note that we are accordingly not obliged to monitor merely the transmitted or saved information of third parties, or investigate circumstances pointing to illegal activity. Our obligations to remove or block the use of information under generally applicable laws remain unaffected by this as per &sect;&sect; 8 to 10 of the Telemedia Act (TMG).  
 
@@ -38,6 +39,7 @@ Responsibility for the content of external links (to web pages of third parties)
 Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (&sect; 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (&sect; 106 of the copyright law).
 
 #Privacy Statement  
+
 ##General  
 Your personal data (e.g. title, name, house address, e-mail address, phone number, bank details, credit card number) are processed by us only in accordance with the provisions of German data privacy laws. The following provisions describe the type, scope and purpose of collecting, processing and utilizing personal data. This data privacy policy applies only to our web pages. If links on our pages route you to other pages, please inquire there about how your data are handled in such cases.  
 
