@@ -505,4 +505,4 @@ As last case here is a more complicated Dockerfile, installing Icinga2, Grafana 
     ENTRYPOINT service grafana-server start
     ENTRYPOINT service icinga2 start && service grafana-server start && service apache2 start && bash
     
-Now it's up to you doing some next steps. Have fun!
+Now it's up to you doing some stuff. Have fun!
