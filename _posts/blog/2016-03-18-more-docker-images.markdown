@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "More about self-made Docker images: Alpine Linux"
-excerpt: "Blog Quickie: Short example building a Alpine Linux Docker image"
+title:  "Blog Quickie: Short example building a Alpine Linux Docker image"
 date:   2016-03-18 22:18:00
 categories: blog
 share: true
