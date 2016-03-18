@@ -12,6 +12,7 @@ tags:
 - microservices
 - icinga
 - debootstrap
+- howto
 comments: true
 share: true
 ---
