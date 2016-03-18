@@ -32,7 +32,7 @@ In short, I executed these steps in my local workspace folder:
     echo "http://nl.alpinelinux.org/alpine/latest-stable/community/" >> ./root/etc/apk/repositories
     tar --numeric-owner -C root -c . | docker import - alpine:0
     
-At this point the Alpine Linux base image for docker is finished. As yesterday I pushed my image to Docker Hub so that you can use it easily: [LINK](https://hub.docker.com/r/bundeskanzler4711/alpine-base/)
+At this point the [Alpine Linux](http://alpinelinux.org/) base image for docker is finished. As yesterday I pushed my image to Docker Hub so that you can use it easily: [LINK](https://hub.docker.com/r/bundeskanzler4711/alpine-base/)
 
 As second step I built a very small OpenJDK 8 JRE image based on this. Therefore I used a Dockerfile like:
 
